@@ -1,12 +1,34 @@
-### 001:Import
+*Using RELION version 3.1.0.
 
-Input files:*.mrc
-Node type: 2D micrographs/tomograms(*.mrc)
+## 001:Import
+### Movies/mics
 
-### 002:Manual Picking
+Import raw movies/micrographs? Yes
+
+Raw input files: 500*.tif
+
+Are these multi-frame movies? No
+
+Optics group name: opticsGroup1
+
+MTF of the detector:
+
+Pixel size (Angstrom): 2.2
+
+Voltage (kV): 120
+
+Spherical aberration (mm): 1.2
+
+Amplitude contrast: 0.1
+
+Beamtilt in X (mrad): 0
+
+Beamtilt in Y (mrad): 0
+
+## 002:Manual Picking
 
 Display?
 
-### 003:AutoPick
+## 003:AutoPick
 
 Pixel size in micrographs (A): 2.2
