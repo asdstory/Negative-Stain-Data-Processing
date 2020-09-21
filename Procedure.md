@@ -31,4 +31,4 @@ Display?
 
 ## 003:AutoPick
 
-Pixel size in micrographs (A): 2.2
+Pixel size in micrographs (A): 2.5 (For T12 old camera US1000)
