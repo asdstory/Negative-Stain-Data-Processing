@@ -13,7 +13,7 @@ Optics group name: opticsGroup1
 
 MTF of the detector:
 
-Pixel size (Angstrom): 2.2
+Pixel size (Angstrom): 2.5
 
 Voltage (kV): 120
 
