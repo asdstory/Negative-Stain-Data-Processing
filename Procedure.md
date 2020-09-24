@@ -29,6 +29,15 @@ Beamtilt in Y (mrad): 0
 
 Display?
 
-## 003:AutoPick
+## 003:Extract particle
+
+### extract
+
+Invert contrast? No
+
+
+
+
+AutoPick
 
 Pixel size in micrographs (A): 2.5 (For T12 old camera US1000)
