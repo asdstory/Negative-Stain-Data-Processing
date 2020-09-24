@@ -13,7 +13,7 @@ Optics group name: opticsGroup1
 
 MTF of the detector:
 
-Pixel size (Angstrom): 2.5
+Pixel size (Angstrom): 2.5  (T12 old camera US4000)
 
 Voltage (kV): 120
 
@@ -35,9 +35,13 @@ Display?
 
 Invert contrast? No
 
+## 004: 2D classification
 
+## 005: Select template from above 2D class for autopicking 
 
+## 006: AutoPick
 
-AutoPick
+## 007: Extract particles again
 
-Pixel size in micrographs (A): 2.5 (For T12 old camera US1000)
+## 008: 2D classification
+
