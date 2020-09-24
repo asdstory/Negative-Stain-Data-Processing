@@ -1,6 +1,6 @@
 *Using RELION version 3.1.0.
 
-## 001:Import
+## Step01:Import
 ### Movies/mics
 
 Import raw movies/micrographs? Yes
@@ -25,23 +25,23 @@ Beamtilt in X (mrad): 0
 
 Beamtilt in Y (mrad): 0
 
-## 002:Manual Picking
+## Step02:Manual Picking
 
 Display?
 
-## 003:Extract particle
+## Step03:Extract particle
 
 ### extract
 
 Invert contrast? No
 
-## 004: 2D classification
+## Step04: 2D classification
 
-## 005: Select template from above 2D class for autopicking 
+## Step05: Select template from above 2D class for autopicking 
 
-## 006: AutoPick
+## Step06: AutoPick
 
-## 007: Extract particles again
+## Step07: Extract particles again
 
-## 008: 2D classification
+## Step08: 2D classification
 
