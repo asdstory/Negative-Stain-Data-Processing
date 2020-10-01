@@ -1,5 +1,13 @@
 *Using RELION version 3.1.0.
 
+## Step00: Convert file format
+
+sh
+```
+module load EMAN2/2.22
+e2proc2d.py *.dm3 @.mrc
+```
+
 ## Step01:Import
 ### Movies/mics
 
