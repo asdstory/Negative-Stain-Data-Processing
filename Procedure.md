@@ -6,6 +6,8 @@
 ```sh
 module load EMAN2/2.22
 e2proc2d.py *.dm3 @.mrc
+#for .tif, if you see sigma=0 warning,do following to force the convert:
+e2proc2d.py *.tif @.mrc --writejunk
 ```
 
 ## Step01:Import
