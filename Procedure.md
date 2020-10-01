@@ -10,7 +10,7 @@ e2proc2d.py *.dm3 @.mrc
 e2proc2d.py *.tif @.mrc --writejunk
 ```
 
-## Step01:Import
+## Step01: Import
 ### Movies/mics
 
 Import raw movies/micrographs? Yes
@@ -35,11 +35,17 @@ Beamtilt in X (mrad): 0
 
 Beamtilt in Y (mrad): 0
 
-## Step02:Manual Picking
+## Step02: Manual Picking
 
 Display?
 
-## Step03:Extract particle
+## Step02: Autopicking using Gautomatch
+
+```sh
+Gautomatch --apixM 2.37 --diameter 300 --speed 1  --lsigma_cutoff 5  --lave_min -1.0  --cc_cutoff 0.2  *.mrc --gid 0  --dont_invertT
+```
+
+## Step03: Extract particle
 
 ### extract
 
